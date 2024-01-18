@@ -1,0 +1,4 @@
+Roman_To_Integer -> 
+    -Foi ok depois que entendi a passo a passo
+    -Foi ok de otimizar
+    -Nem sempre o que achamos que e o mais pesado e o que deve ser mudado! :D
