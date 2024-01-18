@@ -1,4 +1,14 @@
 Roman_To_Integer -> 
-    -Foi ok depois que entendi a passo a passo
+    -Foi ok depois que entendi o passo-a-passo
     -Foi ok de otimizar
     -Nem sempre o que achamos que e o mais pesado e o que deve ser mudado! :D
+
+
+Longest_Common_Prefix ->
+    -Ainda nao consegui achar uma solucao :/
+
+
+Valid_Parentheses ->
+    -Nao tinha entendido como faria, mas apos ver as dicas consegui fazer :D
+    -Utilizar a pilha e uma otima opcao para comparar caracteres que se "encaixam"
+    como ( e ) ou [ e ].
