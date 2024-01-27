@@ -1,7 +1,0 @@
-NOTAS
-
-Java: 
--Algoritmo muito pesado
-    *um loop dentro de outro loop e realmente muito pesado.
-
-Uma forma de abordar, seria utilizando HashTable!

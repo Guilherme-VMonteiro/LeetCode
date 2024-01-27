@@ -1,4 +1,5 @@
-public class Palindrome {
+package Easy_9_Palindrome_Number.Java;
+public class Solution {
 
     public static void main(String[] args) {
         System.out.println(isPalindrome(121));
